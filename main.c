@@ -19,21 +19,21 @@
 #define VRAM_POS_TILE_A 1
 const u32 TILE_A[8] =
 {
-	0x11111111,
-	0x11111111,
-	0x11111111,
-	0x11111111,
-	0x11111111,
-	0x11111111,
-	0x11111111,
-	0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
+  0x11111111,
 };
 
 // Define tile B as a solid block of color from palette entry 2
 #define VRAM_POS_TILE_B 2
 const u32 TILE_B[8] =
 {
-	0x22222222,
+  0x22222222,
   0x22222222,
   0x22222222,
   0x22222222,
